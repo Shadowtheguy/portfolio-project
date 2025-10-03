@@ -1,4 +1,3 @@
-// ./components/HeroImage.jsx
 import "./HeroImage.css";
 
 export default function HeroImage() {
