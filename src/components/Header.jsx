@@ -2,7 +2,7 @@
 export default function Header() {
     return (
     <>
-        <h1>MYLOGO.COM</h1>
+        <h1>GITHUB.COM/SHADOWTHEGUY</h1>
         <hr />
 
         <h2>PORTFOLIO</h2>
